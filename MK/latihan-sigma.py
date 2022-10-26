@@ -4,4 +4,4 @@ hasil = 0
 n = 17
 for i in range(13, n+1):
     hasil = hasil + 5 + 2
-    print(hasil)
+    print(hasil)        #hasil bernilai 86
